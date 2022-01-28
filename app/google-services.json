@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "313590161542",
+    "project_id": "emojiapp-fed76",
+    "storage_bucket": "emojiapp-fed76.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313590161542:android:d4178c25a5955ecaa03107",
+        "android_client_info": {
+          "package_name": "com.example.emojiapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "313590161542-uvuqtph5434j4ik74oi9q5ppnperrja9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.emojiapp",
+            "certificate_hash": "52c191ef942031080d558576d95f732a3a2d1160"
+          }
+        },
+        {
+          "client_id": "313590161542-laa5fufapfu4h0ku47ukbq3cicqcua50.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1wwAk7BxGjXnrTNloKVQ_z2-W3ZTgngA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "313590161542-laa5fufapfu4h0ku47ukbq3cicqcua50.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
